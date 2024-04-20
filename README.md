@@ -5,7 +5,7 @@ This repository contains code for a Plant Disease Detection System. The system i
 ## Download the Model
 
 1. Download the `model.h5` file from the following link: [Download model.h5](https://drive.google.com/file/d/1zh9hOME2bmThyUtBD0vpvbSjPlH0TsaC/view?usp=drive_link)
-2. Place the `model.h5` file into the `Plant-Disease-Detection-main-Streamlit` folder.
+2. Place the `model.h5` file into the `code` folder with other files shown on the github.
 
 ## Setting Up the Environment
 
